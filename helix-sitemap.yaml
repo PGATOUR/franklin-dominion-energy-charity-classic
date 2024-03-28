@@ -2,7 +2,7 @@ version: 1
 
 sitemaps:
   website:
-    origin:
+    origin: http://www.dominionenergycharityclassic.com
     lastmod: YYYY-MM-DD
     languages:
       default:

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-sitemap:
+sitemap:  http://www.dominionenergycharityclassic.com/sitemap.xml

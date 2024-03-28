@@ -1,5 +1,5 @@
 footer {
-  --footer-color: var(--color-blue);
+  --footer-color: var(--color-blue-muted);
   --footer-text-color: var(--color-white);
   --footer-ribbon-color: var(--color-white);
   --footer-ribbon-text-color: var(--color-blue);
@@ -153,7 +153,7 @@ footer .footer .footer-links li {
 @media (min-width: 900px) {
   footer .footer .footer-links {
     display: grid;
-    grid-template-columns: 60px 1fr 130px;
+    grid-template-columns: 130px 1fr 130px;
     align-items: center;
     gap: 0 10px;
     font-size: var(--body-font-size-xs);

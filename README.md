@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# PGA Dominion Energy Charity Classic
 
 ## Environments
-- Preview: https://main--franklin-the-players--pgatour.hlx.page/
-- Live: https://main--franklin-the-players--pgatour.hlx.live/
+- Preview: https://main--pga-dominion-energy-charity-classic--hlxsites.hlx.page/
+- Live: https://main--pga-dominion-energy-charity-classic--hlxsites.hlx.live/
+- Prod: https://www.dominionenergycharityclassic.com/
 
 ## Installation
 

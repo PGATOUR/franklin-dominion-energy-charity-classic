@@ -105,7 +105,6 @@ main .columns img {
   object-fit: cover;
 }
 
-
 main .columns.small-images img {
   object-fit: contain;
   max-width: 330px;
