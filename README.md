@@ -1,8 +1,8 @@
 # PGA Dominion Energy Charity Classic
 
 ## Environments
-- Preview: https://main--pga-dominion-energy-charity-classic--hlxsites.hlx.page/
-- Live: https://main--pga-dominion-energy-charity-classic--hlxsites.hlx.live/
+- Preview: https://main--franklin-dominion-energy-charity-classic--pgatour.hlx.page/
+- Live: https://main--franklin-dominion-energy-charity-classic--pgatour.hlx.live/
 - Prod: https://www.dominionenergycharityclassic.com/
 
 ## Installation
